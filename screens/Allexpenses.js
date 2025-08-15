@@ -1,7 +1,7 @@
 import { Text } from "react-native";
 
-function AllExpensesScreen() {
+function AllExpenses() {
   return <Text>AllExpenses Screen</Text>;
 }
 
-export default AllExpensesScreen;
+export default AllExpenses;
